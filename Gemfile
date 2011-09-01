@@ -16,6 +16,9 @@ group :assets do
   gem 'uglifier'
 end
 
+gem 'unicorn'
+gem 'mysql2'
+gem 'pg'
 gem 'jquery-rails'
 
 # Use unicorn as the web server
