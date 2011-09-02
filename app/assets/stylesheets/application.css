@@ -9,6 +9,7 @@
 body {background-color:tan;}
 h1 {color:maroon;font-size:24pt;}
 p {font-size:12pt;margin-left:15px;}
+p.debug {max-width:800px;}
 a:link {color:green;}
 a:visited {color:yellow;}
 a:hover {color:navy;}
