@@ -5,3 +5,12 @@
  *= require_self
  *= require_tree . 
 */
+
+body {background-color:tan;}
+h1 {color:maroon;font-size:24pt;}
+p {font-size:12pt;margin-left:15px;}
+a:link {color:green;}
+a:visited {color:yellow;}
+a:hover {color:navy;}
+a:active {color:blue;}
+
