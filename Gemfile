@@ -6,6 +6,8 @@ gem 'rails', '3.1.0'
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'haml'
+gem 'thor', :require => nil # just in case we have to load a YAML file that contains its filth.
 
 
 # Gems used only for assets and not required
